@@ -21,7 +21,7 @@ I'm a Distributed Systems , Databases and AI Enthusiast.
 ## About Me
 
 - 🌱 Currently pursuing my BTech in Computer Science at PES University, Bengaluru.
-- 💻 PI'm on a mission to become a Software Engineer, leveraging cutting-edge technologies to create impactful solutions.
+- 💻 I'm on a mission to become a Software Engineer, leveraging cutting-edge technologies to create impactful solutions.
 - 🚀 Always eager to explore new horizons in technology.
 - 👯 I'm looking to collaborate on projects involving:
     - **AI / ML**:  🤖 Machine learning models, deep learning, and AI-powered applications.
